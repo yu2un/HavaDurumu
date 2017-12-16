@@ -1,5 +1,5 @@
 # Türkiye İl ve İlçe Hava Durumu
-Türkiye il ve ilçe hava durumu. Günlük , haftalık ve saatlik olarak listelenme.
+Türkiye il ve ilçe hava durumu. Günlük , haftalık ve saatlik olarak listeleme.
 
 
 ## Kullanımı
