@@ -151,7 +151,7 @@ Array
 ### İl ve İlçe Saatlik Hava Durumu;
 
 ```
-$havaDurumu->saatlikHava("17056");
+$havaDurumu->saatlikHava("17056"); // il yada ilçe "saatlikTahminIstNo" ID'si
 ```
 
 Çıktısı :
